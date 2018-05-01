@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="31px" viewBox="0 0 35 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#989898">
+            <polygon id="Rectangle-3" points="0 11.1904297 16.2128906 0 16.2128906 19 0 30.1904297"></polygon>
+            <polygon id="Rectangle-3" transform="translate(26.106445, 15.095215) scale(-1, 1) translate(-26.106445, -15.095215) " points="18 11.1904297 34.2128906 0 34.2128906 19 18 30.1904297"></polygon>
+        </g>
+    </g>
+</svg>
